@@ -235,10 +235,6 @@ pytest tests/test_metrics.py
 
 MIT License
 
-## Contributing
-
-Contributions are welcome! Please read the contributing guidelines before submitting a pull request.
-
 ## Acknowledgments
 
 - [Financial Modeling Prep](https://financialmodelingprep.com/) for the financial data API
