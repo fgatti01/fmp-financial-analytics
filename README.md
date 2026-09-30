@@ -2,6 +2,8 @@
 
 A comprehensive financial analytics platform with FMP API integration, CFA/FRM/CQF metrics calculations, and AI-powered analysis using Agno agents.
 
+> **Status:** personal research project. Not investment advice and not production software.
+
 ## Features
 
 ### Data Integration
